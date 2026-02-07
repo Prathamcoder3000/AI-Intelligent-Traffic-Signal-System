@@ -86,12 +86,11 @@ This project introduces an **AI-based adaptive traffic signal system** that:
 ├── README.md
 ├── design.md
 ├── requirements.md
-├── src/
-│   ├── ai_engine/
-│   ├── traffic_monitor/
-│   ├── dashboard/
-│   └── analytics/
-
+└── src/
+    ├── ai_engine/
+    ├── traffic_monitor/
+    ├── dashboard/
+    └── analytics/
 
 ---
 
